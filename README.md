@@ -9,7 +9,9 @@ Endnote:
 - Allow multiple file upload for "Import references"
 - For both import and export use what the filetype says
 - Rename Groups. Is it a Folder? Is it a filter (based on tags)? Also to make "find duplicates" easier to grasp
-- Some day we'll escape the paper era and have citation styles as a reading option, instead of a 'print' option.
+- rename&reorder Collect: "Search Online | New Reference | Import References" into "Search | Import | Create"
+- Some day we'll escape simulating the paper era and have citation styles as a reading option, instead of a 'print' option.
+ 
 
 Qualtrics:
 - Explain how multi-select works when a respondent hits the first (many people don't know how to work the control and shift buttons for this). Especially confusing when there are more options than fit the window or scrollbox as you can then inadvertantly unselect options you can't see.
@@ -24,10 +26,10 @@ atlas.ti:
 - Do some renaming. Even official trainers shorten Quotations to Quotes, which then sound too similar to codes.
 Coding is programming to many.
 - Some redesign exercises to improve the program:
-= Maximize space for content, minimize space for menus
-= It's a multi-user program
-= It's web-based
-= Version control is done through Git(hub), not from within atlas.ti (That is how more and more people work, also thanks through open science)
-= What are primary constructs, what are convenience things? Make that obvious somehow.
-= Focus on clear and powerful core concepts (it's just a few things). The thick 'quick' and massive 'full' manuals and the giant menus are confusing/scaring people
+  - Maximize space for content, minimize space for menus
+  - It's a multi-user program
+  - It's web-based
+  - Version control is done through Git(hub), not from within atlas.ti (That is how more and more people work, also thanks through open science)
+  - What are primary constructs, what are convenience things? Make that obvious somehow.
+  - Focus on clear and powerful core concepts (it's just a few things). The thick 'quick' and massive 'full' manuals and the giant menus are confusing/scaring people
 
