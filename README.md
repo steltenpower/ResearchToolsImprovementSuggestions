@@ -21,6 +21,7 @@ Qualtrics:
 - Design questions and resulting data-format at the same time (one, can follow the other, and vice versa)
 - Keep respondents from reply-ing by e-mail with complaints/questions, but keep it in context.
 - Getting people to respond a 2nd time to a survey is even harder. Therefore do your utmost to prevent people from mailing out surveys with problems, especially to many at the same time.
+- Who decided on the default style for your account? Qualtrics? The buyer? Mine makes different kinds of questions look the same. And wastes screen space because of too much emptyness
 
 atlas.ti:
 - Do some renaming. Even official trainers shorten Quotations to Quotes, which then sound too similar to codes.
