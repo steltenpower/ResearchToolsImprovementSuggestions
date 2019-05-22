@@ -2,13 +2,13 @@
 I see little and big confusion and other room for improvement while supporting Endnote, Qualtrics, atlas.ti and others:
 
 Endnote:
-- Find in Cite-While-You-Write needs to show nr of references searched through, fuzzy search and the ability to change which folders shared with you are also searched through
+- Find in Cite-While-You-Write needs to show nr of references searched through, fuzzy search and the ability to change which groups shared with you are also searched through
 - Easier to install on more browsers and more word processors
 - when DOI is available, use that to retrieve metadata.
 - Show what Wayback machine has for webcontent and offer to submit snapshot of current state
 - Allow multiple file upload for "Import references"
 - For both import and export use what the filetype says
-- Rename Groups. Is it a Folder? Is it a filter (based on tags)? Also to make "find duplicates" easier to grasp
+- Rename the concept of Groups. Is it a Folder? Is it a filter (based on tags)? Also to make "find duplicates" easier to grasp
 - rename&reorder Collect: "Search Online | New Reference | Import References" into "Search | Import | Create"
 - Some day we'll escape simulating the paper era and have citation styles as a reading option, instead of a 'print' option.
  
@@ -20,7 +20,7 @@ Qualtrics:
 - Think about how to use all screen space on a 40"+ 4K screen
 - Design questions and resulting data-format at the same time (one, can follow the other, and vice versa)
 - Keep respondents from reply-ing by e-mail with complaints/questions, but keep it in context.
-- Getting people to respond a 2nd time to a survey is even harder. Therefore do your utmost to prevent people from mailing out to all
+- Getting people to respond a 2nd time to a survey is even harder. Therefore do your utmost to prevent people from mailing out surveys with problems, especially to many at the same time.
 
 atlas.ti:
 - Do some renaming. Even official trainers shorten Quotations to Quotes, which then sound too similar to codes.
