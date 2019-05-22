@@ -9,7 +9,7 @@ Endnote:
 - Allow multiple file upload for "Import references"
 - For both import and export use what the filetype implies
 - Rename the concept of Groups. Is it a Folder? Is it a filter (based on tags)? Also to make "find duplicates" easier to grasp
-- rename&reorder Collect: "Search Online | New Reference | Import References" into "Search | Import | Create"
+- rename&reorder Collect: "Search Online | New Reference | Import References" into "Search | Import | Create (capture/manually)"
 - Some day we'll escape simulating the paper era and have citation styles as a reading option, instead of a 'print' option.
  
 
