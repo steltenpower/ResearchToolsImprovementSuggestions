@@ -25,11 +25,13 @@ Qualtrics:
 
 atlas.ti:
 - Do some renaming. Even official trainers shorten Quotations to Quotes, which then sound too similar to codes.
-Coding is programming to many.
+Coding is programming to many; tag?
 - Some redesign exercises to improve the program:
   - Maximize space for content, minimize space for menus
   - It's a multi-user program
   - It's web-based
+  - Linked Data as data format
+  - multi-touch
   - Version control is done through Git(hub), not from within atlas.ti (That is how more and more people work, also thanks through open science)
   - What are primary constructs, what are convenience things? Make that obvious somehow.
   - Focus on clear and powerful core concepts (it's just a few things). The thick 'quick' and massive 'full' manuals and the giant menus are confusing/scaring people
