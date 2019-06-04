@@ -24,8 +24,9 @@ Qualtrics:
 - Who decided on the default style for your account? Qualtrics? The buyer? Mine makes different kinds of questions look the same. And wastes screen space because of too much emptyness
 
 atlas.ti:
-- Do some renaming. Even official trainers shorten Quotations to Quotes, which then sound too similar to codes.
+- Do some renaming. Even official trainers shorten Quotations to Quotes, which then sound too similar to codes; part?
 Coding is programming to many; tag?
+Document is 3 syllables; source? But sources is 2; files?
 - Some redesign exercises to improve the program:
   - Maximize space for content, minimize space for menus
   - It's a multi-user program
