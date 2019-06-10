@@ -4,10 +4,10 @@ I see little and big confusion and other room for improvement while supporting E
 But first, to understand me a bit better:
 
 I'd like manuals mostly diagrams in this order:
--Core concepts
--where does data live, in what formats
--Typical flow of cooperation
--"UI/commands are 'self-explaining', details show up where you need them. There's no manual for them, just a reference, that gladly is hardly used"
+- Core concepts
+- where does data live, in what formats
+- Typical flow of cooperation
+- "UI/commands are 'self-explaining', details show up where you need them. There's no manual for them, just a reference, that gladly is hardly used"
 
 Endnote:
 ========
