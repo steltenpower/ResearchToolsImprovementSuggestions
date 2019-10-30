@@ -42,7 +42,7 @@ Document is 3 syllables; source? But sources is 2; files?
   - Maximize space for content, minimize space for menus
   - It's a multi-user program
   - It's web-based
-  - Linked Data as data format
+  - Linked Data as data format (see also https://github.com/steltenpower/mapping-between-REFI-QDA-and-LODcloud )
   - multi-touch
   - Version control is done through Git(hub), not from within atlas.ti (That is how more and more people work, also thanks through open science)
   - What are primary constructs, what are convenience things? Make that obvious somehow.
