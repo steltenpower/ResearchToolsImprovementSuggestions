@@ -37,14 +37,14 @@ atlas.ti:
 =========
 - Do some renaming. Even official trainers shorten Quotations to Quotes, which then sound too similar to codes; part?
 Coding is programming to many; tag?
-Document is 3 syllables; source? But sources is 2; files?
+Document is 3 syllables; source? But sources is 2; files? content?
 - Some redesign exercises to improve the program:
   - Maximize space for content, minimize space for menus
   - It's a multi-user program
   - It's web-based
   - Linked Data as data format (see also https://github.com/steltenpower/mapping-between-REFI-QDA-and-LODcloud )
   - multi-touch
-  - Version control is done through Git(hub), not from within atlas.ti (That is how more and more people work, also thanks through open science)
+  - Version control is done through Git(hub), not from within atlas.ti (That is how more and more people work, also thanks to open science)
   - What are primary constructs, what are convenience things? Make that obvious somehow.
   - Focus on clear and powerful core concepts (it's just a few things). The (even with tiny characters) thick 'quick' and massive 'full' manuals and the giant menus are confusing/scaring people
 
