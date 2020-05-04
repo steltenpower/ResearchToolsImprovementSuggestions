@@ -9,8 +9,8 @@ I'd like manuals mostly diagrams in this order:
 - Typical flow of cooperation
 - "UI/commands are 'self-explaining', details show up where you need them. There's no manual for them, just a reference, that gladly is hardly used"
 
-Endnote:
-========
+Endnote basic:
+==============
 - Find in Cite-While-You-Write needs to show nr of references searched through, fuzzy search and the ability to change which groups shared with you are also searched through
 - Easier to install on more browsers and more word processors
 - when DOI is available, use that to retrieve metadata.
