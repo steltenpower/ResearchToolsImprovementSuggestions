@@ -5,7 +5,7 @@ But first, to understand me a bit better:
 
 I'd like manuals mostly diagrams in this order:
 - Core concepts
-- where does data live, in what formats
+- where does data live, in what (preferably open) formats
 - Typical flow of cooperation
 - "UI/commands are 'self-explaining', details show up where you need them. There's no manual for them, just a reference, that gladly is hardly used"
 
