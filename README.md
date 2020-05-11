@@ -35,9 +35,9 @@ Qualtrics:
 
 atlas.ti:
 =========
-- Do some renaming. Even official trainers shorten Quotations to Quotes, which then sound too similar to codes; part?
-Coding is programming to many; tag?
-Document is 3 syllables; source? But sources is 2; files? content?
+- Do some renaming. Even official trainers shorten Quotations to Quotes, which then sound too similar to codes; "part"?
+Coding is programming to many; "tag"?
+Document is 3 syllables; "source"? But "sources" is 2; "files"? "content"?
 - Some redesign exercises to improve the program:
   - Maximize space for content, minimize space for menus
   - It's a multi-user program
