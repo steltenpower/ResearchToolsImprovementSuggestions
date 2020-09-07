@@ -48,3 +48,14 @@ Document is 3 syllables; "source"? But "sources" is 2; "files"? "content"?
   - What are primary constructs, what are convenience things? Make that obvious somehow.
   - Focus on clear and powerful core concepts (it's just a few things). The (even with tiny characters) thick 'quick' and massive 'full' manuals and the giant menus are confusing/scaring people
 
+SURF research drive:
+====================
+-Drie manieren van openen bestanden:
+1: download (je wordt gedwongen het op te slaan)
+2: openen in server-side omgeving (bijvoorbeeld een PDF reader)
+3?: (als 1, maar dan met negeren van HTTP-header "content-disposition") openen door de webbrowser waarmee je 'm aanclickt. Bijvoorbeeld handig voor een HTML-bestand, dat in z'n JavaScript weer een CSV-bestand aanroept om bijvoorbeeld te visualiseren. Natuurlijk kan dat ook elders, maar dan moet je rechten op bestanden daar nog een keer definiëren. 
+
+-Extra's qua weergeven bestanden in map:
+1: Groen vinkje als het bestand valideert: inhoud komt overeen met bestandstype, vocabulaires, etc. Om een eventueel probleem met de I van FAIR vroegtijdig te helpen ontdekken.
+2: In contextMenu van bestand een lijstje applicaties die je beschikbaar hebt om met dit type bestand te werken (of makkelijk kan krijgen via SURF of Github o.i.d., wat open source is onderdeel van open science) en een link naar het specificatiedocument van het bestandstype. Om onderzoekers te helpen data-centric te denken ipv "weet ik niet, ik werk in applicatie NogWat, hoezo vendor lock-in?"
+3: icoontjes van bestanden niet obv 1 applicatie, maar obv het bestandstype zelf. Bijvoorbeeld geen Chrome of Firefox icoontje, maar een icoontje voor HTML of SVG.
