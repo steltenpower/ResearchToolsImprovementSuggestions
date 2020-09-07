@@ -50,14 +50,15 @@ Document is 3 syllables; "source"? But "sources" is 2; "files"? "content"?
 
 SURF research drive:
 ====================
-(built on ownCloud)
+= built on ownCloud
+===================
 
--Drie manieren van openen bestanden:
-1. download (je wordt gedwongen het op te slaan)
-2. openen in server-side omgeving (bijvoorbeeld een PDF reader)
-3. (als 1, maar dan met negeren van HTTP-header "content-disposition") openen door de webbrowser waarmee je 'm aanclickt. Bijvoorbeeld handig voor een HTML-bestand, dat in z'n JavaScript weer een CSV-bestand aanroept om bijvoorbeeld te visualiseren. Natuurlijk kan dat ook elders, maar dan moet je rechten op bestanden daar nog een keer definiëren. 
+-Three ways to serve files please:
+1. download (you are asked/forced to save the file somewhere)
+2. open in a server-side (generated) environment (e.g. a PDF reader)
+3. (as 1, but with HTTP-header "content-disposition" ignored) let the web browser handle the file directly. Useful for example for HTML files using JavaScript to load CSV files to visualize. Of course this could be done elsewhere, but then you have to repeat defining the same access regime.
 
--Extra's qua weergeven bestanden in map (misschien kan onder de motorkap voor informatie gerelateerd aan bestandstypen wikidata worden ingezet):
-1. Groen vinkje als het bestand valideert: inhoud komt overeen met bestandstype, vocabulaires, etc. Om een eventueel probleem met de I van FAIR vroegtijdig te helpen ontdekken.
-2. In contextMenu van bestand een lijstje applicaties die je beschikbaar hebt om met dit type bestand te werken (of makkelijk kan krijgen via SURF of Github o.i.d., wat open source is onderdeel van open science) en een link naar het specificatiedocument van het bestandstype. Om onderzoekers te helpen data-centric te denken ipv "weet ik niet, ik werk in applicatie NogWat, hoezo vendor lock-in?"
-3. Ook voor data-centric denken: icoontjes van bestanden niet obv 1 applicatie, maar obv het bestandstype zelf. Bijvoorbeeld geen Chrome of Firefox icoontje, maar een icoontje voor HTML of SVG.
+-Extra's for displaying files in a folder (which for implementation could maybe tap into file type descriptions on wikidata):
+1. Green checkmark if the file validates: consistent file content matches with file type extension. To help prevent problems with interoperability, a term you might know from FAIR data, which should have started with an I. I-FAR maybe?
+2. In contextMenu of a file (preferably also when viewed through webDAV), related installed applications are shown, followed by those easily available from SURF.nl or Github (open source is part of open science after all). Also link to the technical specification of the file type. This should advance data-centric thinking, especially as it's not uncommon to hear "I don't know. I work with (app) X. what's this vendor lock-in you mention?"
+3. Also for data-centric thinking: File icons based on file type (not primary associated application). For example not a Chrome or Firefox icon for HTML or SVG files.
