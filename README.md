@@ -58,7 +58,7 @@ SURF research drive:
 -Three ways to serve files please:
 1. download (you are asked/forced to save the file somewhere)
 2. open in a server-side (generated) environment (e.g. a PDF reader)
-3. (as 1, but with HTTP-header "content-disposition" ignored) let the web browser handle the file directly. Useful for example for HTML files using JavaScript to load CSV files to visualize. Of course this could be done elsewhere, but then you have to repeat defining the same access regime.
+3. (as 1, but with HTTP-header "content-disposition" ignored) let the web browser handle the file directly. Useful for example for HTML files using JavaScript to load CSV files to visualize. Of course this could be done elsewhere, but then you have to repeat defining the same access regime. This might need security warnings.
 
 -Extra's for displaying files in a folder (which for implementation could maybe tap into file type descriptions on wikidata):
 1. Green checkmark if the file validates: consistent file content matches with file type extension (especially those listed as [DANS' preferred formats](https://dans.knaw.nl/en/about/services/easy/information-about-depositing-data/before-depositing/file-formats?set_language=en). To help prevent problems with interoperability, a term you might know from FAIR data, which should have started with an I. I-FAR maybe?
