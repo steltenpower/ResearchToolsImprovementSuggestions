@@ -12,7 +12,7 @@ I'd like manuals mostly diagrams in this order:
 Endnote basic:
 ==============
 - Find in Cite-While-You-Write needs to show nr of references searched through, fuzzy search and the ability to change which groups shared with you are also searched through
-- Easier to install on more browsers and more word processors
+- Easier to install on more browsers and more word processors (native installs and web-based like Office365, Collabora Online, etc.)
 - when DOI is available, use that to retrieve metadata.
 - Show what Wayback machine has for webcontent and offer to submit snapshot of current state
 - Allow multiple file upload for "Import references"
@@ -52,6 +52,8 @@ SURF research drive:
 ====================
 = built on ownCloud
 ===================
+= applies to any list-of-files UI, e.g. Windows File Explorer, DataVerse, etc.
+==============================================================================
 
 -Three ways to serve files please:
 1. download (you are asked/forced to save the file somewhere)
