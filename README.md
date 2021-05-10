@@ -1,6 +1,6 @@
 # ResearchToolsImprovementSuggestions
 I see little and big confusion and other room for improvement while supporting Endnote, Qualtrics, atlas.ti and others which made me write down some remarks below
-
+<img src="https://repository-images.githubusercontent.com/188037551/c49c0c80-7875-11eb-958a-035529f6c676">
 But first, to understand me a bit better:
 
 I'd like manuals mostly diagrams in this order:
