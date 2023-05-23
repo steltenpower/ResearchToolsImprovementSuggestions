@@ -28,7 +28,7 @@ Qualtrics:
 - Say why you don't accept a list of e-mail addresses (there are empty or otherwise invalid entries in there. Leading and trailing spaces are hard to see, but wrong.) Preferably show which e-mail addresses are the problem.
 - Think about how to change something quickly on loads of questions simultaneously.
 - Think about how to use all screen space on a 40"+ 4K screen
-- Design questions and resulting data-format at the same time (one, can follow the other, and vice versa)
+- Design questions and resulting data-format at the same time (one, can follow the other, and vice versa). Instead of clean data, it was polluted with HTML tags for layout.
 - Keep respondents from reply-ing by e-mail with complaints/questions, but keep it in context.
 - Getting people to respond a 2nd time to a survey is even harder. Therefore do your utmost to prevent people from mailing out surveys with problems, especially to many at the same time.
 - Who decided on the default style for your account? Qualtrics? The buyer? Mine makes different kinds of questions look the same. And wastes screen space because of too much emptyness
